@@ -1,0 +1,50 @@
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\Hi-TechManagementSystem.exe.config
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi-TechManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.GUI.Login.resources
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi-TechManagementSystem.csproj.GenerateResource.Cache
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\Hi-TechManagementSystem.exe
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\Hi-TechManagementSystem.pdb
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\Hi-TechDistributionClassLibrary.dll
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\Hi-TechDistributionClassLibrary.pdb
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi-TechManagementSystem.exe
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi-TechManagementSystem.pdb
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.GUI.MIS_Users.resources
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.GUI.MIS_Employees.resources
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi-TechManagementSystem.exe
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi-TechManagementSystem.pdb
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\Hi-TechManagementSystem.exe
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\Hi-TechManagementSystem.pdb
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\Hi-TechDistributionClassLibrary.dll
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\Hi-TechDistributionClassLibrary.pdb
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi-TechManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.GUI.Login.resources
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi-TechManagementSystem.csproj.GenerateResource.Cache
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.GUI.Sales_Manager.resources
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\MetroFramework.dll
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.GUI.Inventory_Control.resources
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.GUI.Orders_Clerk.resources
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.GUI.AboutBox_Hi_TechManagementSystem.resources
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.GUI.MIS_Management.resources
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.GUI.ForgotPassword_Form.resources
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\Hi-TechManagementSystem.exe
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\Hi-TechManagementSystem.pdb
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\Hi-TechDistributionClassLibrary.dll
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\MetroFramework.dll
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\bin\Debug\Hi-TechDistributionClassLibrary.pdb
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi-TechManagementSystem.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.GUI.AboutBox_Hi_TechManagementSystem.resources
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.GUI.ForgotPassword_Form.resources
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.GUI.Inventory_Control.resources
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.GUI.Login.resources
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.GUI.MIS_Management.resources
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.GUI.Orders_Clerk.resources
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.GUI.Sales_Manager.resources
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi_TechManagementSystem.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi-TechManagementSystem.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi-TechManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi-TechManagementSystem.csproj.CopyComplete
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi-TechManagementSystem.exe
+C:\Users\carlo\OneDrive\Documentos\Programming\C#\FinalProject\Hi-TechManagementSystem\Hi-TechManagementSystem\obj\Debug\Hi-TechManagementSystem.pdb

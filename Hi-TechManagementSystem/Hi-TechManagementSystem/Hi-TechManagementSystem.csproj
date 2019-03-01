@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9B57ED1D-2F41-4D61-B787-84ABA9596201}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Hi_TechManagementSystem</RootNamespace>
+    <AssemblyName>Hi-TechManagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Hi-TechDistributionClassLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Hi-TechDistributionClassLibrary\Hi-TechDistributionClassLibrary\bin\Debug\Hi-TechDistributionClassLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.RunTime.1.2.0.3\lib\net40-Client\MetroFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Design.1.2.0.3\lib\net40\MetroFramework.Design.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Fonts.1.2.0.3\lib\net40\MetroFramework.Fonts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GUI\AboutBox_Hi-TechManagementSystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AboutBox_Hi-TechManagementSystem.Designer.cs">
+      <DependentUpon>AboutBox_Hi-TechManagementSystem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ForgotPassword_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ForgotPassword_Form.Designer.cs">
+      <DependentUpon>ForgotPassword_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Inventory_Control.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Inventory_Control.Designer.cs">
+      <DependentUpon>Inventory_Control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\MIS_Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\MIS_Management.Designer.cs">
+      <DependentUpon>MIS_Management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Orders_Clerk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Orders_Clerk.Designer.cs">
+      <DependentUpon>Orders_Clerk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Sales_Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Sales_Manager.Designer.cs">
+      <DependentUpon>Sales_Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="GUI\AboutBox_Hi-TechManagementSystem.resx">
+      <DependentUpon>AboutBox_Hi-TechManagementSystem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ForgotPassword_Form.resx">
+      <DependentUpon>ForgotPassword_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Inventory_Control.resx">
+      <DependentUpon>Inventory_Control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\MIS_Management.resx">
+      <DependentUpon>MIS_Management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Orders_Clerk.resx">
+      <DependentUpon>Orders_Clerk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Sales_Manager.resx">
+      <DependentUpon>Sales_Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="bin\Debug\Author.dat" />
+    <None Include="bin\Debug\Client.dat" />
+    <None Include="bin\Debug\Employee.dat" />
+    <None Include="bin\Debug\Inventory.dat" />
+    <None Include="bin\Debug\Order.dat" />
+    <None Include="bin\Debug\Publisher.dat" />
+    <None Include="bin\Debug\User.dat" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\Hi-TechManagementSystem.exe" />
+    <Content Include="bin\Debug\Hi-TechManagementSystem.pdb" />
+    <Content Include="bin\Debug\Hi-TechManagementSystem.vshost.exe" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

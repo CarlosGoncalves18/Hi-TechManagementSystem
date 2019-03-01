@@ -1,0 +1,9 @@
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Hi-TechDistributionClassLibrary\Hi-TechDistributionClassLibrary\bin\Debug\Hi-TechDistributionClassLibrary.dll
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Hi-TechDistributionClassLibrary\Hi-TechDistributionClassLibrary\bin\Debug\Hi-TechDistributionClassLibrary.pdb
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Hi-TechDistributionClassLibrary\Hi-TechDistributionClassLibrary\obj\Debug\Hi-TechDistributionClassLibrary.dll
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Hi-TechDistributionClassLibrary\Hi-TechDistributionClassLibrary\obj\Debug\Hi-TechDistributionClassLibrary.pdb
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechDistributionClassLibrary\Hi-TechDistributionClassLibrary\bin\Debug\Hi-TechDistributionClassLibrary.pdb
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechDistributionClassLibrary\Hi-TechDistributionClassLibrary\obj\Debug\Hi-TechDistributionClassLibrary.dll
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechDistributionClassLibrary\Hi-TechDistributionClassLibrary\obj\Debug\Hi-TechDistributionClassLibrary.pdb
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechDistributionClassLibrary\Hi-TechDistributionClassLibrary\bin\Debug\Hi-TechDistributionClassLibrary.dll
+C:\Users\carlo\OneDrive\Documentos\Visual Studio 2015\Projects\FinalProject\Hi-TechDistributionClassLibrary\Hi-TechDistributionClassLibrary\obj\Debug\Hi-TechDistributionClassLibrary.csprojResolveAssemblyReference.cache
